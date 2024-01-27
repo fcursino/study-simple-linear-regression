@@ -37,5 +37,6 @@ Brief description or introduction of the project.
 
    ```bash
    uvicorn api_modelo_regressao:app --reload
-5. Access your 'localhost:8000/docs' page on browser: <br>
-   ![GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+5. Access your 'localhost:8000/docs' page on browser:
+   
+   ![GIF](https://github.com/fcursino/study-simple-linear-regression/blob/main/test.gif)
