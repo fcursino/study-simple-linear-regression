@@ -1,1 +1,1 @@
-# study-simple-linear-regression
+# Estudo sobre Regressão Linear Simples
